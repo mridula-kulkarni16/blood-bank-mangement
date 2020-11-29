@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+                <Ad>
+                      <ImageUrl>http://localhost:2093/Images/logo.jpg</ImageUrl>
+                      <Width>1080</Width>
+                      <Height>200</Height>
+                      <NavigateUrl>http://www.google.com</NavigateUrl>
+                      <AlternateText>First Image</AlternateText>
+                      <Impressions>65</Impressions>
+                      <Keyword>Banner</Keyword>               
+                 
+  </Ad>
+                 <Ad>
+                      <ImageUrl>http://localhost:2093/Images/loogoo2.jpg</ImageUrl>
+                      <Width>1070</Width>
+                      <Height>200</Height>
+                      <NavigateUrl>http://www.google.com</NavigateUrl> 
+                      <AlternateText>Second Image</AlternateText>
+                      <Impressions>78</Impressions>
+                      <Keyword>Banner</Keyword>               
+                  
+  </Ad>
+       
+         <Ad>
+                     <ImageUrl>http://localhost:2093/Images/logo3.jpg</ImageUrl>
+                     <Width>1045</Width>
+                     <Height>200</Height>
+                     <NavigateUrl>http://www.google.com</NavigateUrl>
+                     <AlternateText>Third Image</AlternateText>
+                     <Impressions>55</Impressions>
+                     <Keyword>Banner</Keyword>               
+                 
+  </Ad>
+               
+               
+  <!--               <Ad>
+                     <ImageUrl>http://localhost:2093/pro-chancellor-lpu-mrs-rashmi-mittal-with-one-of-the-donor-and-team-of-doctors.jpg
+                     </ImageUrl>
+                     <Width>1055</Width>
+                     <Height>200</Height>
+                     <NavigateUrl>http://www.google.com</NavigateUrl>
+                     <AlternateText>Fourth Image</AlternateText>
+                     <Impressions>85</Impressions>
+                     <Keyword>Banner</Keyword>               
+                 
+  </Ad>
+      <Ad>
+                     <ImageUrl>http://localhost:2093/abb_qanverme_050416_03.jpg</ImageUrl>
+                     <Width>1025</Width>
+                     <Height>200</Height>
+                     <NavigateUrl>http://www.google.com</NavigateUrl>
+                     <AlternateText>Fourth Image</AlternateText>
+                     <Impressions>89</Impressions>
+                     <Keyword>Banner</Keyword>               
+                 
+  </Ad>-->
+     
+</Advertisements>
+
